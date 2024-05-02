@@ -14,9 +14,8 @@ export const DEFAULT_LOCALE = ENGLISH;
 
 // NavBar text (header).
 export const navBarTitleText = {
-  [ENGLISH]: "Tukanoan Language Web Interface",
-  [ESPANOL]: "Interfaz Web de Lenguas Tukanoanas",
-  [FRANCAIS]: "Interface Web des Langues Tukanoanes"
+  [ENGLISH]: "Ahamakhav Language Web Interface",
+  
 };
 
 export const navBarSearchText = {
